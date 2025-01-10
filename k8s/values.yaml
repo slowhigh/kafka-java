@@ -1,0 +1,13 @@
+volumePermissions:
+  enabled: true
+
+listeners:
+  client:
+    protocol: PLAINTEXT
+
+controller:
+  resources:
+    requests:
+      cpu: 100m
+    limits:
+      cpu: 200m

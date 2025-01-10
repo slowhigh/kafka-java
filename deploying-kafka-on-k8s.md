@@ -1,10 +1,3 @@
-### Spring-boot Environment
-- Project: Maven
-- Language: Java
-- Spring Boot: 3.3.4
-- Packaging: Jar
-- Java: 21
-
 ### k8s에 kafka 배포
 
 #### 1. kafka 30.1.8 설치
